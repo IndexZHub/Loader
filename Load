@@ -15,5 +15,5 @@ if game.PlaceId == 3956818381 then --- Ninja Legends
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Ninja%20Legends"), true))()
 end
 if game.PlaceId == 286090429 then --- Arsenal
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Arsenal"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Arsenaly"), true))()
 end
