@@ -1,15 +1,15 @@
 ---Rage Hub
 if game.PlaceId == 13622985049 then --- Rinbow Friends C1 Lobby
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Chapter%201%20Lobbys"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%201%20Lobby"), true))()
 end
 if game.PlaceId == 7991339063 then --- Rinbow Friends C2 Lobby
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Chapter%202%20Lobbys"), true))()
+loadstring(game:HttpGet((""), true))()
 end
 if game.PlaceId == 8888615802 then --- Rinbow Friends G1 Lobby
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Chapter%201%20Game"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%201%20Game"), true))()
 end
 if game.PlaceId == 13622981808 then --- Rinbow Friends G2 Lobby
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Chapter%202%20Game"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%201%20Game"), true))()
 end
 if game.PlaceId == 3956818381 then --- Ninja Legends
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/IndexZHub/Loader/main/Ninja%20Legends"), true))()
