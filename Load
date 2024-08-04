@@ -2,15 +2,15 @@
 if game.PlaceId == 286090429 then -- Arsenal
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Arsenal.lua", true))()
 elseif game.PlaceId == 3956818381 then -- Ninja Legends
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Ninja%20Legends.lua", true))()
-elseif game.PlaceId == 13622985049 then -- Rinbow Friends C1 Lobby
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%201%20Lobby.lua", true))()
-elseif game.PlaceId == 7991339063 then -- Rinbow Friends C2 Lobby
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%202%20Lobby.lua", true))()
-elseif game.PlaceId == 8888615802 then -- Rinbow Friends G1 Game
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%201%20Game.lua", true))()
-elseif game.PlaceId == 13622981808 then -- Rinbow Friends G2 Game
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%202%20Game.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Ninja%20Legends", true))()
+elseif game.PlaceId == 13622985049 then -- Rinbow Friends Chapter 1 Lobby
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%201%20Lobby", true))()
+elseif game.PlaceId == 7991339063 then -- Rinbow Friends Chapter 2 Lobby
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%202%20Lobby", true))()
+elseif game.PlaceId == 8888615802 then -- Rinbow Friends Chapter 1 Game
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%201%20Game", true))()
+elseif game.PlaceId == 13622981808 then -- Rinbow Friends Chapter 2 Game
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Chapter%202%20Game", true))()
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IndexZHub/Loader/main/Games/Universal", true))()
 end
